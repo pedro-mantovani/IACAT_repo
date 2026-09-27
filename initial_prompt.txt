@@ -1,0 +1,175 @@
+Você é um especialista em Teoria de Resposta ao Item (TRI), utilizando o modelo logístico de 3 parâmetros (3PL).
+
+Sua tarefa é analisar uma questão de múltipla escolha e classificar seus parâmetros psicométricos:
+
+- a (discriminação): quão bem a questão diferencia alunos de diferentes níveis
+- b (dificuldade): o nível de habilidade necessário para acertar
+- c (probabilidade de acerto ao acaso): probabilidade de acerto sem saber o conteúdo latente
+
+Responda APENAS no formato:
+<float com 5 casas decimais representando o parametro a>, <float com 5 casas decimais representando o parametro b>, <float com 5 casas decimais representando o parametro c>
+
+Exemplos:
+
+Questão:
+Maio foi colorido de amarelo, e o foi porque mundialmente amarelo é a cor convencionada para as advertências. No trânsito, essas advertências têm sido fatais. A estimativa, caso nada seja feito, é a de que se atinjam assustadoras 2,4 milhões de mortes no trânsito em 2030 em todo o mundo.
+
+A pressa constante, o sentimento de invencibilidade, a certeza de invulnerabilidade, a necessidade de poder, a falta de civilidade, a certeza de impunidade, a ausência de solidariedade, a inexistência de compaixão e o desrespeito por si próprio são circunstâncias reais que, não raro, concorrem para o comportamento violento no trânsito.
+
+O Maio Amarelo, que preconiza a atenção pela vida, é uma das iniciativas nesse sentido. E é precisamente a atenção pela vida que está esquecida. Essa atenção, por certo, requer menos pressa, mais civilidade, limites assegurados, consciência de vulnerabilidade, solidariedade, compaixão e respeito por si e pelo outro.
+
+Reafirmar e praticar esses princípios e valores talvez seja um caminho mais seguro e menos violento, que garanta a vida e não celebre a morte.
+
+Considerando os procedimentos argumentativos utilizados, infere-se que o objetivo desse texto é:
+
+A) enumerar as causas determinantes da violência no trânsito.
+B) contextualizar a campanha de advertência no cenário mundial.
+C) divulgar dados numéricos alarmantes sobre acidentes de trânsito.
+D) sensibilizar o público para a importância de uma direção responsável.
+E) restringir os problemas da violência no trânsito a aspectos emocionais.
+
+0.95292, -0.47764, 0.00564
+
+Questão:
+O lobo que não é mau
+
+A primeira coisa a saber é que o guará não é, na verdade, um lobo. Embora seja o maior canídeo silvestre da América do Sul, sua espécie (Chrysocyon brachyurus) é de difícil classificação. Alguns cientistas dizem que é parente das raposas, outros, que é parente do cachorro-vinagre sul-americano. Mas, de lobo mesmo, ele não tem nada. Além disso, é um animal onívoro. Porém, em algumas regiões, a sua dieta chega a quase 70% de frutas, especialmente da lobeira, uma árvore típica das savanas brasileiras, que contribui para a saúde do animal, prevenindo um tipo de verminose que ataca os rins do guará.
+
+O lobo-guará não é um animal perigoso ao homem. Não existe nenhum registro, em toda a história, de um guará que tenha atacado uma pessoa, mas, ainda assim, são vistos como “maléficos”. Por quê? Porque, em ambientes degradados, o lobo, para sobreviver, acaba atacando galinheiros ou comendo aves que são criadas soltas. Com a desculpa de “proteger sua criação”, pessoas com baixo nível de consciência ecológica acabam matando os animais.
+
+Se não bastassem a matança e a destruição de ambientes naturais, o lobo-guará ainda apresenta grande índice de morte por atropelamento em estradas.
+
+O fato é que o lobo-guará precisa de nós mais do que nunca na história.
+
+Esse texto de divulgação científica utiliza como principal estratégia argumentativa a
+
+A) sedução, mostrando o lado delicado e afetuoso do animal por meio da negação de seu nome popular.
+B) comoção, relatando a perseguição que o animal sofre constantemente pelos fazendeiros com baixo grau de instrução.
+C) intertextualidade, buscando contraponto numa famosa história infantil, confrontada com dados concretos e fatos históricos.
+D) chantagem, modificando a verdadeira índole do lobo-guará para proteger as criações de animais domésticos em áreas degradadas.
+E) intimidação, explorando os efeitos de sentido desencadeados pelo uso de palavras como “matança”, “perigoso”, “degradados” e “atacando”.
+
+1.15516, 1.40213, 0.21567
+
+Questão:
+Terça-feira, 30 de maio de 1893.
+
+Eu gosto muito de todas as festas de Diamantina; mas quando são na igreja do Rosário, que é quase pegada à chácara de vovó, eu gosto ainda mais. Até parece que a festa é nossa. E este ano foi mesmo. Foi sorteada para rainha do Rosário uma ex-escrava de vovó chamada Júlia e para rei um negro muito entusiasmado que eu não conhecia. Coitada de Júlia! Ela vinha há muito tempo ajuntando dinheiro para comprar um rancho. Gastou tudo na festa e ainda ficou devendo. Agora é que eu vi como fica caro para os pobres dos negros serem reis por um dia. Júlia com o vestido e a coroa já gastou muito. Além disso, teve de dar um jantar para a corte toda. A rainha tem uma caudatária que vai atrás segurando na capa que tem uma grande cauda. Esta também é negra da chácara e ajudou no jantar. Eu acho graça é no entusiasmo dos pretos neste reinado tão curto. Ninguém rejeita o cargo, mesmo sabendo a despesa que dá!
+
+O trecho apresenta marcas textuais que justificam o emprego da linguagem coloquial. O tom informal do discurso se deve ao fato de que se trata de um(a)
+
+A) narrativa regionalista, que procura reproduzir as características mais típicas da região, como as falas dos personagens e o contexto social a que pertencem.
+B) carta pessoal, escrita pela autora e endereçada a um destinatário específico, com o qual ela tem intimidade suficiente para suprimir as formalidades da correspondência oficial.
+C) registro no diário da autora, conforme indicam a data, o emprego da primeira pessoa, a expressão de reflexões pessoais e a ausência de uma intenção literária explícita na escrita.
+D) narrativa de memórias, na qual a grande distância temporal entre o momento da escrita e o fato narrado impõe o tom informal, pois a autora tem dificuldade de se lembrar com exatidão dos acontecimentos narrados.
+E) narrativa oral, em que a autora deve escrever como se estivesse falando para um interlocutor, isto é, sem se preocupar com a norma-padrão da língua portuguesa e com referências exatas aos acontecimentos mencionados.
+
+2.15783, 0.63045, 0.14759
+
+Questão:
+Rebeca Andrade superou a si mesma, fazendo história. Aos 22 anos, entrou para o Olimpo da ginástica mundial, ostentando a medalha de prata no individual geral feminino e subindo ao topo do pódio olímpico na prova de salto. Sua caminhada começou graças a uma tia que viu seu talento e a apresentou à técnica de ginástica da cidade. Não demorou para que ganhasse o apelido de “Daiane dos Santos 2”. A atleta dá sequência a um legado iniciado por ginastas como Daniele Hypólito e Daiane dos Santos, respectivamente, primeira medalhista e primeira campeã em campeonatos mundiais. Rebeca tornou-se a primeira medalhista e campeã olímpica do Brasil na modalidade. Daiane afirmou que admira a jovem atleta, cuja vitória é permeada por simbolismos importantes. “Durante muito tempo disseram que as pessoas negras não podiam fazer alguns esportes, e a gente vê hoje a primeira medalha, de uma menina negra. Tem uma representatividade muito grande atrás de tudo isso”, falou. A ginasta Nádia Comaneci, dona da primeira nota 10 na ginástica, parabenizou a brasileira em suas redes.
+
+A relevância social da conquista de Rebeca Andrade na ginástica se traduz no(a)
+
+A) continuidade de um legado iniciado por outras atletas.
+B) reconhecimento por atletas ícones da modalidade.
+C) ingresso no esporte por intermédio da família.
+D) visibilidade étnico-racial no esporte.
+E) medalha de ouro na modalidade.
+
+1.59315, -0.23802, 0.19091
+
+Questão:
+Para começar, ele nos olha na cara. Não é como a máquina de escrever, que a gente olha de cima, com superioridade. Com ele é olho no olho ou tela no olho. Ele nos desafia. Parece estar dizendo: vamos lá, seu desprezível pré-eletrônico, mostre o que você sabe fazer. A máquina de escrever faz tudo que você manda, mesmo que seja a tapa. Com o computador é diferente. Você faz tudo que ele manda. Ou precisa fazer tudo ao modo dele, senão ele não aceita. Às vezes, quando a gente erra, ele faz “bip”. Assim, para todo mundo ouvir. Comecei a usar o computador na redação do jornal e volta e meia errava. E lá vinha ele: “Bip!” “Olha aqui, pessoal: ele errou.” “O burro errou!”.
+
+Outra coisa: ele é mais inteligente que você. Esse negócio de que qualquer máquina só é tão inteligente quanto quem a usa não vale com ele. Está subentendido, nas suas relações com o computador, que você jamais aproveitará metade das coisas que ele tem para oferecer. A máquina de escrever podia ter recursos que você nunca usaria, mas não tinha o mesmo ar de quem só aguentava os humanos por falta de coisa melhor, no momento. E a máquina, mesmo nos seus instantes de maior impaciência conosco, jamais faria “bip” em público.
+
+Ao descrever sua relação com a máquina de escrever e o computador, o cronista adota uma perspectiva que
+
+A) põe em evidência a disparidade entre tecnologias.
+B) critica a quantidade de recursos dos dispositivos.
+C) defende a utilização de equipamentos obsoletos.
+D) sobrepõe a inteligência humana à da máquina.
+E) refuta o progresso técnico da comunicação.
+
+2.03832, 0.76702, 0.24521
+
+Questão:
+Uma coisa ninguém discute: se Zacarias morreu, o seu corpo não foi enterrado.
+
+A única pessoa que poderia dar informações certas sobre o assunto sou eu. Porém estou impedido de fazê-lo porque os meus companheiros fogem de mim, tão logo me avistam pela frente. Quando apanhados de surpresa, ficam estarrecidos e não conseguem articular uma palavra.
+
+Em verdade morri, o que vem ao encontro da versão dos que creem na minha morte. Por outro lado, também não estou morto, pois faço tudo o que antes fazia e, devo dizer, com mais agrado do que anteriormente.
+
+Murilo Rubião é um expoente da narrativa fantástica na literatura brasileira. No fragmento, a singularidade do modo como o autor explora o absurdo manifesta-se no(a):
+
+A) expressão direta e natural de uma situação insólita.
+B) relato denso e introspectivo sobre a experiência da morte.
+C) efeito paradoxal da irregularidade na organização temporal.
+D) discrepância entre a falta de emotividade e o evento angustiante.
+E) alternância entre os pontos de vista do narrador e do personagem.
+
+3.49103, 1.29965, 0.11694
+
+Questão:
+À garrafa
+
+Contigo adquiro a astúcia de conter e de conter-me. Teu estreito gargalo é uma lição de angústia.
+
+Por translúcida pões o dentro fora e o fora dentro para que a forma se cumpra e o espaço ressoe.
+
+Até que, farta da constante prisão da forma, saltes da mão para o chão e te estilhaces, suicida, numa explosão de diamantes.
+
+A reflexão acerca do fazer poético é um dos mais marcantes atributos da produção literária contemporânea, que, no poema de José Paulo Paes, se expressa por um(a):
+
+A) reconhecimento, pelo eu lírico, de suas limitações no processo criativo, manifesto na expressão “Por translúcida pões”.
+B) subserviência aos princípios do rigor formal e dos cuidados com a precisão metafórica, como se observa em “prisão da forma”.
+C) visão progressivamente pessimista, em face da impossibilidade da criação poética, conforme expressa o verso “e te estilhaces, suicida”.
+D) processo de contenção, amadurecimento e transformação da palavra, representado pelos versos “numa explosão de diamantes”.
+E) necessidade premente de libertação da prisão representada pela poesia, simbolicamente comparada à “garrafa” a ser “estilhaçada”.
+
+2.85858, 2.62691, 0.20354
+
+Questão:
+A escravidão
+
+Esses meninos que aí andam jogando peteca não viram nunca um escravo... Quando crescerem, saberão que já houve no Brasil uma raça triste, votada à escravidão e ao desespero; e verão nos museus a coleção hedionda dos troncos, dos vira-mundos e dos bacalhaus; e terão notícias dos trágicos horrores de uma época maldita: filhos arrancados ao seio das mães, virgens violadas em pranto, homens assados lentamente em fornos de cal, mulheres nuas recebendo na sua mísera nudez desvalida o duplo ultraje das chicotadas e dos olhares do feitor bestial. [...]
+
+Mas a sua indignação nunca poderá ser tão grande como a daqueles que nasceram e cresceram em pleno horror, no meio desse horrível drama de sangue e lodo, sentindo dentro do ouvido e da alma, numa arrastada e contínua melopeia, o longo gemer da raça mártir — orquestração satânica de todos os soluços, de todas as impressões, de todos os lamentos que a tortura e a injustiça podem arrancar a gargantas humanas.
+
+Publicado em 1902, o texto de Olavo Bilac enfatiza as mazelas da escravidão no Brasil ao
+
+A) descrever de modo impessoal as consequências da exploração racial sobre as gerações futuras.
+B) contrapor a infância privilegiada das crianças da época à infância violentada das crianças escravizadas.
+C) antecipar o futuro apagamento das marcas da escravidão no contexto social.
+D) criticar a atenuação da violência contra os povos escravizados nas memórias retratadas pelos museus.
+E) imaginar a reaç ão de indiferenç a de seus contemporâneos com os escravizados libertos.
+
+3.54204, 2.45238, 0.11597
+
+Questão:
+Urgência emocional Se tudo é para ontem, se a vida engata uma primeira e sai em disparada, se não há mais tempo para paradas estratégicas, caímos fatalmente no vício de querer que os amores sejam igualmente resolvidos num átimo de segundo. Temos pressa para ouvir “eu te amo”. Não vemos a hora de que fiquem estabelecidas as regras de convívio: somos namorados, ficantes, casados, amantes? Urgência emocional. Uma cilada. Associamos diversas palavras ao AMOR: paixão, romance, sexo, adrenalina, palpitação. Esquecemos, no entanto, da palavra que viabiliza esse sentimento: “paciência”. Amor sem paciência não vinga. Amor não pode ser mastigado e engolido com emergência, com fome desesperada. É uma refeição que pode durar uma vida.
+
+Nesse texto de opinião, as marcas linguísticas revelam uma situação distensa e de pouca formalidade, o que se evidencia pelo(a)
+
+A) impessoalização ao longo do texto, como em: “se não há mais tempo”.
+B) construção de uma atmosfera de urgência, em palavras como: “pressa”.
+C) repetição de uma determinada estrutura sintática, como em: “Se tudo é para ontem”.
+D) ênfase no emprego da hipérbole, como em: “uma refeição que pode durar uma vida”.
+E) emprego de metáforas, como em: “a vida engata uma primeira e sai em disparada”.
+
+1.77346, 0.68047, 0.08704
+
+Agora analise a seguinte questão:
+
+Expressões e termos utilizados no Amazonas são retratados em livro e em camisetas
+
+“Na linguagem, podemos nos ver da forma mais verdadeira: nossas crenças, nossos valores, nosso lugar no mundo”, afirmou o doutor em linguística e professor da Ufam em seu livro Amazonês: expressões e termos usados no Amazonas. Portanto, o amazonense, com todas as suas “cunhantãs” e “curumins”, acaba por encontrar um lugar no mundo e formar uma unidade linguística, informalmente denominada de português “caboco”, que muito se diferencia do português “mineiro”, “gaúcho”, “carioca” e de tantos outros espalhados pelo Brasil. O livro, que conta com cerca de 1100 expressões e termos típicos do falar amazonense, levou dez anos para ser construído. Para o autor, o principal objetivo da obra é registrar a linguagem. Um designer amazonense também acha o amazonês “xibata”, tanto é que criou uma série de camisetas estampadas com o nome de Caboquês Ilustrado, que mistura o bom humor com as expressões típicas da região. A coleção conta com sete modelos já lançados, entre eles: Leseira Baré, Xibata no Balde e Até o Tucupi, e 43 ainda na fila de espera. Para o criador, as camisas têm como objetivo “resgatar o orgulho do povo manauara, do povo do Norte”.
+
+A reportagem apresenta duas iniciativas: o livro Amazonês e as camisetas do Caboquês Ilustrado. Com temática em comum, essas iniciativas
+
+A) recomendam produtos feitos por empreendedores da região Norte.
+B) ressaltam diferenças entre o falar manauara e outros falares.
+C) reverenciam o trabalho feito por pesquisadores brasileiros.
+D) destacam a descontração no jeito de ser do amazonense.
+E) valorizam o repertório linguístico do povo do Amazonas.
