@@ -49,6 +49,7 @@ The [initial prompt](initial_prompt.txt) for every LLM contained the 9 exemple i
 </thead>
 <tbody>
 <tr><td><em>r</em></td><td>-0.181</td><td>-0.047</td><td>-0.041</td><td>0.372</td><td>0.505</td><td>0.695</td><td>-0.015</td><td>0.093</td><td>0.171</td></tr>
+<tr><td><em>p</em></td><td>0.298</td><td>0.789</td><td>0.815</td><td>0.028</td><td>0.002</td><td>&lt;0.001</td><td>0.932</td><td>0.595</td><td>0.326</td></tr>
 <tr><td><em>r²</em></td><td>0.033</td><td>0.002</td><td>0.002</td><td>0.139</td><td>0.255</td><td>0.483</td><td>0.000</td><td>0.009</td><td>0.029</td></tr>
 <tr><td>Bias</td><td>-1.032</td><td>-0.569</td><td>-0.609</td><td>-0.110</td><td>0.431</td><td>-1.079</td><td>0.032</td><td>-0.001</td><td>-0.004</td></tr>
 <tr><td>MAE</td><td>1.194</td><td>1.060</td><td>0.925</td><td>0.521</td><td>0.662</td><td>1.111</td><td>0.062</td><td>0.061</td><td>0.058</td></tr>
